@@ -33,7 +33,7 @@ maintainability and conform to REST principles.
 
 This is a quick guide to get you started using the Hemera platform. After completing
 this guide, you will have the platform installed and understand how to interact
-with the platform. This guide will roughly take 5 minutes.
+with the platform. This guide will roughly take 5 minutes to complete.
 
 ## [Tutorial](https://github.com/hemera/Hemera-Release/wiki/Tutorial)
 
