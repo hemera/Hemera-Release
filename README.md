@@ -31,9 +31,17 @@ maintainability and conform to REST principles.
 
 ## [Getting Started](https://github.com/hemera/Hemera-Release/wiki/Getting-Started)
 
-This is the step by step guide to help you get started using the platform. It'll
-take probably 10 minutes or so to complete. Then you'll be ready to jump right
-into your application development!
+This is a quick guide to get you started using the Hemera platform. After completing
+this guide, you will have the platform installed and understand how to interact
+with the platform. This guide will roughly take 5 minutes.
+
+## [Tutorial](https://github.com/hemera/Hemera-Release/wiki/Tutorial)
+
+This is the step by step guide to help you get started using the platform. After
+you compelte this guide, you will fully understand how to develop a server
+application using the platform, bundle your appication for deployment, and also
+deploy your bundle for production. It'll probably take 30 minutes or so to complete.
+Then you'll be ready to jump right into your own application development!
 
 ## [Core Concepts](https://github.com/hemera/Hemera-Release/wiki/Core-Concepts)
 
