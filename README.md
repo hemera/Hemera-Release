@@ -1,8 +1,3 @@
-# Hemera
-Created by **Yi Wang (Neakor, hemera)**
-
-# Hemera - Release
-
 Welcome to the Hemera stable releases project. Here you will find the production
 ready releases of the Hemera Application Platform, as well as various documents
 to help you get started with the Hemera environment.
@@ -43,32 +38,21 @@ application using the platform, bundle your appication for deployment, and also
 deploy your bundle for production. It'll probably take 30 minutes or so to complete.
 Then you'll be ready to jump right into your own application development!
 
+## [Debug in Eclipse](https://github.com/hemera/Hemera-Release/wiki/Debug-in-Eclipse)
+
+This is a tutorial covering the topic of how to debug your application in the
+Eclipse IDE.
+
 ## [Core Concepts](https://github.com/hemera/Hemera-Release/wiki/Core-Concepts)
 
 This document describes various core concepts involved with the platform. This isn't
 a must-read to get started. However, if you are interested in how the platform is
 put together at a high level, enjoy the read :)
 
-# License
+## Advanced Topics
 
-**Hemera - Release** is available under the MIT license:
+There are several advanced topics related to the design and implementation
+of Hemera being discussed in their full details. These documents can be useful
+if are looking to understand the design choices and perhaps using them directly.
 
-*Copyright (c) 2012 Yi Wang (Neakor, hemera)*
-
-*Permission is hereby granted, free of charge, to any person obtaining a copy*
-*of this software and associated documentation files (the "Software"), to deal*
-*in the Software without restriction, including without limitation the rights*
-*to use, copy, modify, merge, publish, distribute, sublicense, and/or sell*
-*copies of the Software, and to permit persons to whom the Software is*
-*furnished to do so, subject to the following conditions:*
-
-*The above copyright notice and this permission notice shall be included in*
-*all copies or substantial portions of the Software.*
-
-*THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR*
-*IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,*
-*FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE*
-*AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER*
-*LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,*
-*OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN*
-*THE SOFTWARE.*
+### [Assisted Execution Service with Work-Stealing](https://github.com/hemera/Hemera-Release/wiki/Assisted-Execution-Service-with-Work-Stealing)
