@@ -55,4 +55,6 @@ There are several advanced topics related to the design and implementation
 of Hemera being discussed in their full details. These documents can be useful
 if are looking to understand the design choices and perhaps using them directly.
 
+### [Hemera Environment Configuration](https://github.com/hemera/Hemera-Release/wiki/Hemera-Environment-Configuration)
+
 ### [Assisted Execution Service with Work-Stealing](https://github.com/hemera/Hemera-Release/wiki/Assisted-Execution-Service-with-Work-Stealing)
