@@ -12,7 +12,7 @@ public class DebugHelloWorld {
 		final String classname = HelloWorldModule.class.getName();
 		final String configLocation = "/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/config/hello-world.xml";
 		final String resourcesDir = "/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/resources";
-		debugger.addModule(new ModuleNode(classname, configLocation, resourcesDir));
+		debugger.addModule(new ModuleNode(classname, configLocation, resourcesDir, null));
 		// Start the debugger.
 		debugger.start();
 	}

@@ -4,10 +4,15 @@
 	<modules>
 		<module>
 			<src-dir>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/src</src-dir>
-			<lib-dir>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/lib/</lib-dir>
 			<classname>hemera.release.helloworld.HelloWorldModule</classname>
+			<dependencies>
+				<dependency>
+					<type>jar-dir</type>
+					<value>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/lib/</value>
+				</dependency>
+			</dependencies>
 			<config-file>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/config/hello-world.xml</config-file>
-			<resource-dir>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/resources/</resource-dir>
+			<resources-dir>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/resources/</resources-dir>
 		</module>
 	</modules>
 </hemera-bundle-model>
