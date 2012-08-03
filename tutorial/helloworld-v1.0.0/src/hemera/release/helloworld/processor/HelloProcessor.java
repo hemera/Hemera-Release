@@ -46,11 +46,6 @@ public class HelloProcessor extends AbstractProcessor<HelloRequest, HelloRespons
 	}
 
 	@Override
-	public String getPath() {
-		return "hi";
-	}
-
-	@Override
 	public Class<HelloRequest> getRequestType() {
 		return HelloRequest.class;
 	}

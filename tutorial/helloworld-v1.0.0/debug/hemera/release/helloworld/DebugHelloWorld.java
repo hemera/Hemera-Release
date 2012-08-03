@@ -9,7 +9,7 @@ public class DebugHelloWorld {
 		// This is where we installed our Hemera environment.
 		final RuntimeDebugger debugger = new RuntimeDebugger("/Workspace/Hemera/Local/");
 		// Add a module to debug.
-		final String classname = HelloWorldModule.class.getName();
+		final String classname = HelloWorldResource.class.getName();
 		final String configLocation = "/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/config/hello-world.xml";
 		final String resourcesDir = "/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/resources";
 		debugger.addModule(new ModuleNode(classname, configLocation, resourcesDir, null));
