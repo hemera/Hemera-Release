@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <hemera-bundle-model>
 	<application-name>HelloWorld</application-name>
-	<modules>
-		<module>
+	<resources>
+		<resource>
 			<src-dir>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/src</src-dir>
-			<classname>hemera.release.helloworld.HelloWorldModule</classname>
+			<classname>hemera.release.helloworld.HelloWorldResource</classname>
 			<dependencies>
 				<dependency>
 					<type>jar-dir</type>
@@ -13,6 +13,6 @@
 			</dependencies>
 			<config-file>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/config/hello-world.xml</config-file>
 			<resources-dir>/Workspace/Sourcecode/Project-Hemera/Hemera-Release-HelloWorld/resources/</resources-dir>
-		</module>
-	</modules>
+		</resource>
+	</resources>
 </hemera-bundle-model>
