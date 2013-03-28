@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar hemera-core-shell-v1.0.1.jar $@
